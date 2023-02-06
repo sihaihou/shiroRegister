@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.housihai.shiro.core.ShiroRedisClientAutoConfiguration
